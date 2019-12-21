@@ -5,5 +5,6 @@
     "useLandingPage": true,
     "useResume": false
   },
-  "brandName": "Sharath Ramkumar"
+  "brandName": "Sharath Ramkumar",
+  "recaptcha-sitekey": "6Lfi7MEUAAAAANIndAjO55fVgnKvijv91BbKZt8v"
 }
